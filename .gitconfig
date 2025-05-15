@@ -1,0 +1,13 @@
+[user]
+	name = jordyvg1993
+	email = jordygv1993@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait
+	ignorecase = false
+	excludesfile = /home/jordyvg1993/.gitignore_global
+[pull]
+	rebase = false
+[credential]
+	helper = /mnt/c/Program\\ Files/Git/mingw64/bin/git-credential-manager.exe
